@@ -644,7 +644,7 @@ different programming languages**
 |5| [T HUB ](https://t-hub.co/) | - |
 |6| [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
-
+|8| [Dream Buddy Accelerator](https://www.leadingindia.ai/dreambuddy) | Bennett University |
 ---
 
 # 6. Internship Portals :smile:
